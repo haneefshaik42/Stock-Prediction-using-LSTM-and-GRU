@@ -1,7 +1,7 @@
 # 📈 Stock Price Forecasting using LSTM and GRU
 
 ## 🧠 Objective
-This project aims to predict stock prices for major companies using deep learning models — **LSTM (Long Short-Term Memory)** and **GRU (Gated Recurrent Units)**. These models are well-suited for time-series forecasting due to their ability to capture sequential dependencies and trends.
+This project aims to predict stock prices for major companies using deep learning models — **LSTM (Long Short-Term Memory)** and **GRU (Gated Recurrent Units)**. These models are well-suited for time-series forecasting because they capture sequential dependencies and trends.
 
 ## 📊 Data Collection
 - **Source:** [Yahoo Finance](https://finance.yahoo.com/) via the `yfinance` Python library  
@@ -56,5 +56,4 @@ pip install tensorflow
 - Make sure to have an active internet connection to fetch the latest data from Yahoo Finance.
 - Modify ticker symbols or date ranges in the notebook to experiment with other stocks.
 
-## 📬 Contact
-For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/your-repo-name/issues).
+
