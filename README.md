@@ -53,7 +53,6 @@ pip install tensorflow
    ```
 
 ## 📌 Notes
-- Make sure to have an active internet connection to fetch the latest data from Yahoo Finance.
-- Modify ticker symbols or date ranges in the notebook to experiment with other stocks.
+
 
 
